@@ -1,3 +1,3 @@
-//esta es mi primer linea de codigo
+Esta es mi primera línea de código.
 
 # test1
