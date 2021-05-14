@@ -1,0 +1,55 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+header {
+  text-align: center;
+  text-decoration-color: black;
+  font-size: large;
+  font-weight: 100;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(175, 5, 5);
+}
+.platos {
+  background-color: rgb(241, 218, 218);
+  font-size: large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  align-content: flex-end;
+  border-color: black;
+  border-style: double;
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+.bateria {
+  background-color: rgb(129, 17, 17);
+  font-size: larger;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  align-content: center;
+  border-color: black;
+  border-style: dotted;
+  text-align: center;
+}
+.fierros {
+  background-color: rgb(241, 218, 218);
+  font-size: large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  align-content: flex-end;
+  border-color: black;
+  border-style: double;
+  width: 49%;
+  float: right;
+}
+span {
+  color: red;
+}
+
+aside {
+  width: 50%;
+  text-align: center;
+}
+.instagram {
+  width: max-content;
+  border: 40px;
+  place-items: bottom;
+}
